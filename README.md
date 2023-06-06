@@ -11,4 +11,5 @@ The goal was to build an application to record moments, like a time capsule.
     <img height="40" src="https://i.imgur.com/TOWgyeo.png" alt="nextjs"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript"> &nbsp 
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/postcss.svg" alt="post-css"> &nbsp
 </p>
